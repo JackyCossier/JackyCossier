@@ -13,7 +13,6 @@ I'm building my foundation in programming, mathematics, physics and engineering.
 - Engineering
 - Robotics
 - Programming
-- Physics
 
 ## Projects
 
